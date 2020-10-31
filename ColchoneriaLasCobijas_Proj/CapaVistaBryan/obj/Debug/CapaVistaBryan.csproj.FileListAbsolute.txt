@@ -25,3 +25,30 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\C
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\stdole.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaControladorBryan.pdb
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaVistaBryan.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaVistaBryan.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaControladorBryan.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\stdole.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaControladorBryan.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.csprojAssemblyReference.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVista.Mantenimientos.CuentasContables.resources
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.csproj.GenerateResource.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaBryan\obj\Debug\CapaVistaBryan.pdb

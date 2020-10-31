@@ -7,3 +7,12 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\De
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaModeloJose.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaModeloJose.pdb
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaControladorJose.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaControladorJose.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaModeloJose.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\bin\Debug\CapaModeloJose.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.csprojAssemblyReference.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorJose\obj\Debug\CapaControladorJose.pdb

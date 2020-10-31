@@ -3,3 +3,8 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\bin\Debug
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.csproj.CoreCompileInputs.cache
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\bin\Debug\CapaModeloSergio.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\bin\Debug\CapaModeloSergio.pdb
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.dll
+C:\Users\Yavhé Orozco\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloSergio\obj\Debug\CapaModeloSergio.pdb
